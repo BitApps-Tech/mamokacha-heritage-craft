@@ -8,7 +8,7 @@ const regions = [
     altitude: "1,700 - 2,200m",
     processing: "Washed & Natural",
     description: "One of the most celebrated Ethiopian coffees in the world.",
-    x: "55%", y: "65%",
+    x: "52%", y: "68%",
   },
   {
     name: "Sidamo",
@@ -16,7 +16,7 @@ const regions = [
     altitude: "1,500 - 2,200m",
     processing: "Washed",
     description: "Rich and complex flavors from southern Ethiopia.",
-    x: "50%", y: "72%",
+    x: "48%", y: "72%",
   },
   {
     name: "Guji",
@@ -24,7 +24,7 @@ const regions = [
     altitude: "1,800 - 2,300m",
     processing: "Natural & Honey",
     description: "Emerging origin with exceptional cup quality.",
-    x: "58%", y: "70%",
+    x: "56%", y: "74%",
   },
   {
     name: "Harrar",
@@ -32,7 +32,7 @@ const regions = [
     altitude: "1,500 - 2,100m",
     processing: "Natural / Dry",
     description: "Ancient coffee region with bold, fruity profiles.",
-    x: "65%", y: "48%",
+    x: "68%", y: "42%",
   },
   {
     name: "Limu",
@@ -40,7 +40,7 @@ const regions = [
     altitude: "1,400 - 2,000m",
     processing: "Washed",
     description: "Smooth and well-balanced western Ethiopian coffee.",
-    x: "42%", y: "55%",
+    x: "38%", y: "52%",
   },
 ];
 
